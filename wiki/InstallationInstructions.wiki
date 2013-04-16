@@ -1,0 +1,13 @@
+#summary Installation instructions.
+
+= 1. Extract the zip file =
+
+After you have extracted `apacheerrorlogmailer-x.x.zip` file, you will find a folder called `apacheerrorlogmailer` with the following files:
+
+  * `mailer.php` - actual script
+  * `propeties.ini` - monitoring related settings
+
+
+= 2. Set e-mail addresses and paths to error log files =
+
+Open `properties.ini` file and enter information for as much as you want error log files.
